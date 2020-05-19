@@ -1,0 +1,35 @@
+{
+    	"titel" : "Hanivar",
+	"category" : "novel",
+   	 "publisher" : "Mincompany",
+	"year " : "2010",
+	"price":"200"
+}
+{
+    	"titel" : "GARIN",
+	"category" : "novel",
+   	 "publisher" : "Ponigacompany",
+	"year " : "2010",
+	"price":"200"
+}
+{
+    	"titel" : "RINCHINRAE",
+	"category" : "horror",
+   	 "publisher" : "Ponigacompany",
+	"year " : "2011",
+	"price":"260"
+}
+{
+    	"titel" : "OF THE DATE",
+	"category" : "horror",
+   	 "publisher" : "Bookingcompany",
+	"year " : "2010",
+	"price":"300"
+}
+{
+    	"titel" : "Me Before You",
+	"category" : "love",
+   	 "publisher" : "Bookingcompany",
+	"year " : "2004",
+	"price":"400"
+}
